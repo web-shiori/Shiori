@@ -1,2 +1,2 @@
-# Shiori-document
-Web Shioriの体外発表資料など
+# Web Snapshot(旧Web Shiori)
+## 体外発表資料
